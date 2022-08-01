@@ -12,3 +12,5 @@ undecided whether this will be a multiplayer or single player game.
 ouat's main objective is to complete the story.  the story is set in the era of the 7 kingdoms, the warring states period, qin, chu, wei, qi, yan, zhao, and han kingdoms are battling for control and power.
 
 Unlike most other RPGs, there are a few key differences:
+
+* players do not need to select class, all players have a general skill set which can be shaped towards a certain class
