@@ -15,7 +15,6 @@ longevity | body's ability to withstand time
 attribute | description
 ---|---
 height |
-weight |
 age |
 kingdom | qin, zhao, qi, yan, wei, han, chu, none, zhou (barbarians), monks, bandits
 experience | points gained from accomplishing tasks, distinguishes player level
@@ -98,3 +97,4 @@ resilience | covered by recovery
 coordination | covered by balance
 endurance | covered by stamina
 power | covered by strength
+weight | covered by strength

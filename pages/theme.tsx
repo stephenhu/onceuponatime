@@ -1,20 +1,17 @@
-import { createTheme, ThemeProvider, styled } from "@mui/material/styles";
+import { ThemeOptions } from "@mui/material";
 
-declare module "@mui/material/styles" {
-  interface Theme {
-    status; {
-      danger: string;
-    };
-  }
-  interface ThemeOptions {
-    status?: {
-      danger?: string;
-    };
-  }
-}
-
-const theme = createTheme({
-  status: {
-    danger: orange[500],
-  }
-});
+export const themeOptions: ThemeOptions = {
+  palette: {
+    type: 'dark',
+    primary: {
+      main: '#021a27',
+    },
+    secondary: {
+      main: '#f50057',
+    },
+    background: {
+      default: '#080808',
+      paper: '#181818',
+    },
+  },
+};

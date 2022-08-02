@@ -2,12 +2,12 @@
 
 html, body {
   height: 100%;
-  font-family: sans-serif;
+  font-family: Verdana;
   background-color: #101010;
   color: #ffffff;
 }
 
 h1, h2, h3, h4, h5 {
   text-decoration: none;
-  font-family: sans-serif;
+  font-family: Verdana;
 }
